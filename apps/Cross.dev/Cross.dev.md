@@ -1,0 +1,8 @@
+- **App Name**: Cross.dev
+- **App Icon**: ![Cross.dev-Icon](./Cross.dev_icon_80x80.png).
+- **App Description**: Cross.dev introduces a unique single command line, providing permissionless access to stunning DeFi strategies for seamless trade execution and profit-taking. Its low-code philosophy enables users to automate trading with a drag-and-drop interface, making it easy for individuals with varying levels of coding expertise. Whether you prefer a simple one-click experience or programmable trading through the command line, Crossdev is your go-to DeFi Armory room.
+- **One Liner for Your Application**: The trading terminal with a programmable on Blockchain. Ideal for all traders, it features an intuitive interface for creating and executing limitless trading strategies, maximizing efficiency and speed.
+- **App Category**: Defi,Tools,Other
+- **App Link**: https://terminal.cross.dev/
+- **Screenshots / Picture / Banner**: ![Cross.dev-Screenshot](./Cross.dev_banner_588x400.jpg)
+- **Link to App’s GitHub Repository**: [Cross.dev Smart Contract Source Code](https://github.com/thesixnetwork/cross-dev-contract.git)
